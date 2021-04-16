@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Batch8.iml" filepath="$PROJECT_DIR$/Batch8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBatch8/JavaBatch8.iml" filepath="$PROJECT_DIR$/JavaBatch8/JavaBatch8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Review/Review.iml" filepath="$PROJECT_DIR$/Review/Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenium/Selenium.iml" filepath="$PROJECT_DIR$/Selenium/Selenium.iml" />
+    </modules>
+  </component>
+</project>

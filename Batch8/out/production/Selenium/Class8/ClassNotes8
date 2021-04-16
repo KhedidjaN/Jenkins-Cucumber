@@ -1,0 +1,10 @@
+class 08
+
+implicit wait
+will be applied only for findElement( or findEelemnts() methods
+
+Explici waits or Webdriver wait
+it is used to tell webdriver to wait for a certain or expected condition before throwing
+"ElementNoVisibleExcpetion"
+
+Explicit wait works with Expted

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.hrms.runners.TestRunner" duration-ms="18" started-at="2021-01-23T10:51:13 EST" finished-at="2021-01-23T10:51:13 EST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="18" started-at="2021-01-23T10:51:13 EST" finished-at="2021-01-23T10:51:13 EST">
+    </test> <!-- Command line test -->
+  </suite> <!-- com.hrms.runners.TestRunner -->
+</testng-results>

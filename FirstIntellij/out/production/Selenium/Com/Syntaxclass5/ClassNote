@@ -1,0 +1,28 @@
+class 5
+handling Checkboxex and Radiobuttons
+1. if you have only 1 Checkbox  or radiobutton - just click on it
+2. if you have multiple - store in a list and loop through
+
+Dropdowns
+Drop is a menu or a method which allows a user to select one or multiple options
+
+Types of dropdrowns
+1. single select
+2.multiple select
+
+Handling a dropdown
+1.just clicking on the dropdown and clicking on the option ( not recommended)
+2. Using Select class
+       in order to use Select class, we need to make sure we have a
+       <select> tag in html
+
+Selecting options from the dropdown can be done in 3 ways :
+1. by index
+2. by physical text
+3. by value;
+
+in order to deselect options we can use following methods;
+deselectByValue();
+deselectByIndex();
+deselectByVisibleTExt();
+deselectAll();

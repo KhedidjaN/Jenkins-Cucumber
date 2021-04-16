@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class13/Class13.iml" filepath="$PROJECT_DIR$/Class13/Class13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class13/Class13bis.iml" filepath="$PROJECT_DIR$/Class13/Class13bis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class14/Class14.iml" filepath="$PROJECT_DIR$/Class14/Class14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class13/Class15.iml" filepath="$PROJECT_DIR$/Class13/Class15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassBis13/ClassBis13.iml" filepath="$PROJECT_DIR$/ClassBis13/ClassBis13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstIntellij.iml" filepath="$PROJECT_DIR$/FirstIntellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repl/Repl.iml" filepath="$PROJECT_DIR$/Repl/Repl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReviewClasses/ReviewClasses.iml" filepath="$PROJECT_DIR$/ReviewClasses/ReviewClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenium/Selenium.iml" filepath="$PROJECT_DIR$/Selenium/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class20/class20.iml" filepath="$PROJECT_DIR$/class20/class20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class21/class21.iml" filepath="$PROJECT_DIR$/class21/class21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class22/class22.iml" filepath="$PROJECT_DIR$/class22/class22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class23/class23.iml" filepath="$PROJECT_DIR$/class23/class23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class33/class33.iml" filepath="$PROJECT_DIR$/class33/class33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class34/class34.iml" filepath="$PROJECT_DIR$/class34/class34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class35/class35.iml" filepath="$PROJECT_DIR$/class35/class35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

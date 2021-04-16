@@ -1,0 +1,61 @@
+TestNG is annontation  based tools/frameworks
+
+@Test - is a main annotation and it marks our method as Test method
+
+TestNg has annotation for precondition that is define with @before(method, class)
+TestNg has annotation for postcondition that is define with @After(method, class)
+
+TestNG Parameters :
+- priority
+     priority =0 --> is set by default
+     priority =1 --> we are defining a priority of the test
+- enabled
+    enabled =true  - is a default behaviour
+    enabled =fals --> if we want to skip specific test
+-dependsOn
+   we can create Test methods that will depend on others.
+   In case of failure depended method will be skipped/ignored from the execution
+
+
+Assertions in TestNG ( validation )
+
+
+-Assert Class (Hard Assertion)
+  Assert.assertTrue
+  Assert.assertEquals
+_Soft Assertion -
+ SoftAssert softAsert=new SoftAssert();
+ Soft assert collect all failures but does not throw an exception
+ at the end we need to call method .assertAll();
+
+ to format
+ on Mac : option+ command+L
+ on Windows : ctrl+ alt+ L
+
+  TestNG Class 3
+  testng.xml file is a configuration file where we can specify which classes, methods, groups etc to run
+  <suite name="Any Name">
+       <test.name="Any Name>
+           <packages>
+           <classes>
+                <class name="the name that we need">
+                      <methods>
+                      </methods>
+           </classes>
+           </packages>
+       </test>
+  </suite>
+
+  ____________
+  Assertions
+  Hard if assertion fails -> execution stop right away (Assert Class)
+  Soft collects all failures and then at the we need to call assertAll() (SoftAssert)
+
+  @Test(dependsOnMethods="")
+  public void turnOff(){
+   ....
+  }
+  @Test
+  public void turnOn(){
+   ......
+  }

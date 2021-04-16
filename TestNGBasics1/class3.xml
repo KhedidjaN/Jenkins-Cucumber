@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Class 3 Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/SARA/IdeaProjects/TestNGBasics1/src/com/syntax/Class3">
+        <classes>
+            <class name="com.syntax.Class3.SoftAssertionModified">
+                <methods>
+                    <include name="openAndNavigate"/>
+                    <include name="logoAndValidLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

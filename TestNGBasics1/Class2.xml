@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/SARA/IdeaProjects/TestNGBasics1/src/com/syntax/Class1">
+        <classes>
+            <class name="com.syntax.Class1.LoginTest">
+                <methods>
+                    <include name="validAdminLogin"/>
+                    <include name="titleValidation"/>
+                </methods>
+            </class>
+            <class name="com.syntax.Class1.PreAndPostConditionAnnotation">
+                <methods>
+                    <include name="testMethod"/>
+                    <include name="testMethod2"/>
+                    <include name="testMethod3"/>
+                </methods>
+            </class>
+            <class name="com.syntax.Class1.TestNGIntro">
+                <methods>
+                    <include name="hello"/>
+                    <include name="sayBye"/>
+                    <include name="anotherMethod"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
